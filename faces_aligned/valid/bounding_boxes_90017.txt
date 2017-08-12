@@ -1,0 +1,400 @@
+../faces_aligned_2/valid/64/images (62).png 0 0 101 101
+../faces_aligned_2/valid/64/images (10).png 1 0 110 110
+../faces_aligned_2/valid/64/images (23).png 0 0 108 108
+../faces_aligned_2/valid/64/images (82).png 0 0 88 88
+../faces_aligned_2/valid/64/images (58).png 0 0 110 110
+../faces_aligned_2/valid/14/9k= (4).png 0 0 72 72
+../faces_aligned_2/valid/14/images (2).png 0 0 79 79
+../faces_aligned_2/valid/14/image_A1459.png 0 0 107 114
+../faces_aligned_2/valid/14/image_A1474.png 0 0 131 131
+../faces_aligned_2/valid/14/image_A1464.png 0 0 108 108
+../faces_aligned_2/valid/17/image_A1536.png 0 0 114 114
+../faces_aligned_2/valid/17/Z.png 0 0 77 77
+../faces_aligned_2/valid/17/image_A0922.png 2 0 132 132
+../faces_aligned_2/valid/17/images (22).png 0 0 74 74
+../faces_aligned_2/valid/17/image_A0278.png 1 0 165 165
+../faces_aligned_2/valid/78/images (11).png 0 0 133 133
+../faces_aligned_2/valid/78/image_A3031.png 0 0 74 76
+../faces_aligned_2/valid/78/image_A3038.png 6 0 132 149
+../faces_aligned_2/valid/78/image_A3048.png 0 0 110 115
+../faces_aligned_2/valid/78/images (3).png 0 0 76 76
+../faces_aligned_2/valid/10/image_A1388.png 0 0 145 145
+../faces_aligned_2/valid/10/images (43).png 0 0 143 143
+../faces_aligned_2/valid/10/Z (1).png 0 0 74 74
+../faces_aligned_2/valid/10/image_A1380.png 0 0 90 90
+../faces_aligned_2/valid/10/image_A1107.png 9 0 221 221
+../faces_aligned_2/valid/55/339k= (2).png 0 0 91 91
+../faces_aligned_2/valid/55/5656images (53).png 0 0 53 53
+../faces_aligned_2/valid/55/image_A2426.png 0 0 74 74
+../faces_aligned_2/valid/55/image_A0461.png 0 0 282 317
+../faces_aligned_2/valid/55/6969images (8).png 0 0 128 128
+../faces_aligned_2/valid/46/images (70).png 0 0 74 74
+../faces_aligned_2/valid/46/images (51).png 0 0 96 96
+../faces_aligned_2/valid/46/images (67).png 0 0 76 76
+../faces_aligned_2/valid/46/images (50).png 0 0 102 102
+../faces_aligned_2/valid/46/images (60).png 0 0 103 103
+../faces_aligned_2/valid/45/images (56).png 0 0 117 117
+../faces_aligned_2/valid/45/images (76).png 0 0 125 125
+../faces_aligned_2/valid/45/images (45).png 0 0 109 109
+../faces_aligned_2/valid/45/images (51).png 0 0 107 107
+../faces_aligned_2/valid/45/images (29).png 0 0 119 119
+../faces_aligned_2/valid/67/images (17).png 0 0 67 67
+../faces_aligned_2/valid/67/images (33).png 0 0 154 154
+../faces_aligned_2/valid/67/image_A2738.png 0 0 87 87
+../faces_aligned_2/valid/67/image_A2737.png 0 0 75 75
+../faces_aligned_2/valid/67/image_A2755.png 0 0 93 93
+../faces_aligned_2/valid/80/image_A3076.png 0 0 64 64
+../faces_aligned_2/valid/80/image_A3095.png 0 0 82 82
+../faces_aligned_2/valid/80/9k=.png 0 0 93 93
+../faces_aligned_2/valid/80/images (28).png 0 0 136 136
+../faces_aligned_2/valid/80/image_A0499.png 0 0 238 238
+../faces_aligned_2/valid/65/images (39).png 0 0 48 48
+../faces_aligned_2/valid/65/images (87).png 0 0 97 97
+../faces_aligned_2/valid/65/images (27).png 0 0 83 83
+../faces_aligned_2/valid/65/images (60).png 0 0 143 143
+../faces_aligned_2/valid/65/images (17).png 0 0 111 111
+../faces_aligned_2/valid/53/images (38).png 0 0 104 104
+../faces_aligned_2/valid/53/image_A0176.png 8 0 164 164
+../faces_aligned_2/valid/53/images (46).png 0 0 136 136
+../faces_aligned_2/valid/53/image_A0360.png 0 0 245 268
+../faces_aligned_2/valid/53/images (70).png 0 0 107 107
+../faces_aligned_2/valid/72/image_A1044.png 0 0 297 302
+../faces_aligned_2/valid/72/image_A2869.png 0 0 137 137
+../faces_aligned_2/valid/72/image_A2892.png 0 0 105 105
+../faces_aligned_2/valid/72/image_A0982.png 1 0 371 387
+../faces_aligned_2/valid/72/2Q== (5).png 0 0 76 76
+../faces_aligned_2/valid/19/images (40).png 0 0 81 81
+../faces_aligned_2/valid/19/image_A1566.png 0 0 64 64
+../faces_aligned_2/valid/19/images (35).png 0 0 61 61
+../faces_aligned_2/valid/19/image_A1576.png 0 0 121 121
+../faces_aligned_2/valid/19/9k= (4).png 0 0 68 71
+../faces_aligned_2/valid/56/442Q== (4).png 2 0 107 107
+../faces_aligned_2/valid/56/2121images (16).png 0 0 98 98
+../faces_aligned_2/valid/56/3737images (3) copy.png 0 0 82 82
+../faces_aligned_2/valid/56/image_A0357.png 0 0 102 104
+../faces_aligned_2/valid/56/6262images (51).png 0 0 109 109
+../faces_aligned_2/valid/33/images (47).png 0 0 93 93
+../faces_aligned_2/valid/33/image_A1861.png 0 0 106 106
+../faces_aligned_2/valid/33/images (64).png 0 0 125 126
+../faces_aligned_2/valid/33/images (61).png 0 0 119 119
+../faces_aligned_2/valid/33/image_A1863.png 0 0 123 128
+../faces_aligned_2/valid/37/image_A0636.png 0 0 192 229
+../faces_aligned_2/valid/37/images (7).png 0 0 133 133
+../faces_aligned_2/valid/37/images (13).png 0 0 107 107
+../faces_aligned_2/valid/37/images (11).png 0 0 109 109
+../faces_aligned_2/valid/37/images (5).png 0 0 132 132
+../faces_aligned_2/valid/21/images (31).png 0 0 60 72
+../faces_aligned_2/valid/21/image_A1614.png 0 0 80 80
+../faces_aligned_2/valid/21/images (30).png 0 0 97 97
+../faces_aligned_2/valid/21/image_A1626.png 0 0 120 120
+../faces_aligned_2/valid/21/image_A1629.png 0 0 74 74
+../faces_aligned_2/valid/48/images (76).png 0 0 91 91
+../faces_aligned_2/valid/48/images (17).png 0 0 78 78
+../faces_aligned_2/valid/48/images (58).png 0 0 113 113
+../faces_aligned_2/valid/48/images (42).png 0 0 108 110
+../faces_aligned_2/valid/48/images (51).png 0 0 74 74
+../faces_aligned_2/valid/60/image_A2561.png 0 0 96 96
+../faces_aligned_2/valid/60/image_A0473.png 19 0 497 519
+../faces_aligned_2/valid/60/images (25).png 0 0 56 56
+../faces_aligned_2/valid/60/images (36).png 0 0 71 71
+../faces_aligned_2/valid/60/images (50).png 0 0 107 107
+../faces_aligned_2/valid/27/images (22).png 0 0 101 101
+../faces_aligned_2/valid/27/images (55).png 0 0 77 77
+../faces_aligned_2/valid/27/images (79).png 0 0 95 95
+../faces_aligned_2/valid/27/images (71).png 0 0 124 124
+../faces_aligned_2/valid/27/images (65).png 0 0 105 105
+../faces_aligned_2/valid/41/images (74).png 0 0 133 133
+../faces_aligned_2/valid/41/images (29).png 0 0 109 119
+../faces_aligned_2/valid/41/2Q==.png 0 0 111 112
+../faces_aligned_2/valid/41/images (58).png 0 0 70 70
+../faces_aligned_2/valid/41/images (16).png 0 0 112 115
+../faces_aligned_2/valid/34/images (31).png 3 0 130 130
+../faces_aligned_2/valid/34/images (13).png 0 0 74 74
+../faces_aligned_2/valid/34/images (30).png 0 0 111 111
+../faces_aligned_2/valid/34/image_A0228.png 1 0 135 135
+../faces_aligned_2/valid/34/images (11).png 0 0 96 96
+../faces_aligned_2/valid/11/image_A1128.png 3 0 183 192
+../faces_aligned_2/valid/11/image_A1399.png 0 0 156 156
+../faces_aligned_2/valid/11/image_A1406.png 3 0 137 137
+../faces_aligned_2/valid/11/image_A1397.png 0 0 124 125
+../faces_aligned_2/valid/11/images (43).png 0 0 128 130
+../faces_aligned_2/valid/07/images (35).png 0 0 86 86
+../faces_aligned_2/valid/07/images (38).png 0 0 78 78
+../faces_aligned_2/valid/07/images (39).png 0 0 67 67
+../faces_aligned_2/valid/07/images (37).png 0 0 91 91
+../faces_aligned_2/valid/07/images (36).png 0 0 56 56
+../faces_aligned_2/valid/40/images (81).png 0 0 59 59
+../faces_aligned_2/valid/40/images (2).png 0 0 95 95
+../faces_aligned_2/valid/40/image_A0358.png 4 0 160 160
+../faces_aligned_2/valid/40/images (6).png 0 0 100 100
+../faces_aligned_2/valid/40/images (100).png 0 0 167 167
+../faces_aligned_2/valid/77/image_A2998.png 0 0 90 90
+../faces_aligned_2/valid/77/image_A3004.png 0 0 111 111
+../faces_aligned_2/valid/77/image_A2999.png 0 0 120 121
+../faces_aligned_2/valid/77/image_A3019.png 0 0 77 77
+../faces_aligned_2/valid/77/9k= (3).png 0 0 113 113
+../faces_aligned_2/valid/68/image_A2787.png 0 0 72 72
+../faces_aligned_2/valid/68/image_A2773.png 1 0 119 120
+../faces_aligned_2/valid/68/images (47).png 0 0 114 114
+../faces_aligned_2/valid/68/image_A2774.png 0 0 117 117
+../faces_aligned_2/valid/68/images (38).png 0 0 101 101
+../faces_aligned_2/valid/23/images.png 0 0 61 61
+../faces_aligned_2/valid/23/image_A1674.png 0 0 116 120
+../faces_aligned_2/valid/23/image_A1673.png 0 0 133 133
+../faces_aligned_2/valid/23/images (48).png 0 0 58 58
+../faces_aligned_2/valid/23/image_A1661.png 0 0 132 133
+../faces_aligned_2/valid/06/images (10).png 0 0 109 109
+../faces_aligned_2/valid/06/images (4).png 0 0 118 118
+../faces_aligned_2/valid/06/images (11).png 0 0 65 65
+../faces_aligned_2/valid/06/images (12).png 0 0 64 64
+../faces_aligned_2/valid/06/images (3).png 1 0 157 157
+../faces_aligned_2/valid/71/image_A2847.png 0 0 94 94
+../faces_aligned_2/valid/71/images (36).png 0 0 70 70
+../faces_aligned_2/valid/71/images (24).png 0 0 98 98
+../faces_aligned_2/valid/71/images (4).png 0 0 101 101
+../faces_aligned_2/valid/71/image_A2866.png 0 0 74 74
+../faces_aligned_2/valid/75/images (16).png 0 0 114 114
+../faces_aligned_2/valid/75/image_A0836.png 0 0 203 216
+../faces_aligned_2/valid/75/image_A2960.png 0 0 96 96
+../faces_aligned_2/valid/75/image_A2955.png 0 0 109 109
+../faces_aligned_2/valid/75/images (26).png 0 0 51 51
+../faces_aligned_2/valid/25/image_A0838.png 0 0 183 183
+../faces_aligned_2/valid/25/images (32).png 0 0 104 104
+../faces_aligned_2/valid/25/image_A1696.png 0 0 107 107
+../faces_aligned_2/valid/25/image_A0926.png 21 0 839 881
+../faces_aligned_2/valid/25/image_A1695.png 0 0 102 102
+../faces_aligned_2/valid/29/images (56).png 0 0 114 114
+../faces_aligned_2/valid/29/images (10).png 0 0 103 103
+../faces_aligned_2/valid/29/image_A0834.png 0 0 191 193
+../faces_aligned_2/valid/29/images (5).png 0 0 69 69
+../faces_aligned_2/valid/29/images (70).png 0 0 95 95
+../faces_aligned_2/valid/61/4747images (39).png 0 0 53 53
+../faces_aligned_2/valid/61/image_A0365.png 0 0 113 124
+../faces_aligned_2/valid/61/image_A0652.png 4 0 109 109
+../faces_aligned_2/valid/61/6262images (52).png 0 0 141 141
+../faces_aligned_2/valid/61/6969images (59).png 0 0 137 137
+../faces_aligned_2/valid/26/images (64).png 0 0 72 72
+../faces_aligned_2/valid/26/images (65).png 0 0 98 98
+../faces_aligned_2/valid/26/images (24).png 0 0 86 86
+../faces_aligned_2/valid/26/images (17).png 0 0 86 86
+../faces_aligned_2/valid/26/image_A0165.png 34 0 345 357
+../faces_aligned_2/valid/57/222Q== (1).png 0 0 83 83
+../faces_aligned_2/valid/57/2323images (10).png 0 0 72 72
+../faces_aligned_2/valid/57/999k= (1) copy.png 0 0 85 85
+../faces_aligned_2/valid/57/7171images (9) copy.png 0 0 56 56
+../faces_aligned_2/valid/57/1919Z.png 0 0 113 113
+../faces_aligned_2/valid/69/Z (10).png 0 0 84 89
+../faces_aligned_2/valid/69/image_A2797.png 0 0 108 108
+../faces_aligned_2/valid/69/image_A2791.png 0 0 145 145
+../faces_aligned_2/valid/69/image_A2803.png 12 0 130 130
+../faces_aligned_2/valid/69/image_A2794.png 0 0 122 122
+../faces_aligned_2/valid/31/images (42).png 0 0 74 74
+../faces_aligned_2/valid/31/image_A1815.png 0 0 105 105
+../faces_aligned_2/valid/31/image_A1817.png 0 0 99 99
+../faces_aligned_2/valid/31/image_A1826.png 0 0 109 109
+../faces_aligned_2/valid/31/images (56).png 0 0 87 87
+../faces_aligned_2/valid/36/images (54).png 0 0 136 137
+../faces_aligned_2/valid/36/images (22).png
+../faces_aligned_2/valid/36/images (60).png 0 0 131 131
+../faces_aligned_2/valid/36/images (68).png 0 0 98 98
+../faces_aligned_2/valid/36/images (40).png 0 0 67 67
+../faces_aligned_2/valid/73/image_A2894.png 0 0 97 97
+../faces_aligned_2/valid/73/image_A2909.png 0 0 81 81
+../faces_aligned_2/valid/73/image_A0254.png 0 0 100 108
+../faces_aligned_2/valid/73/image_A2901.png 0 0 72 72
+../faces_aligned_2/valid/73/image_A2907.png 0 0 91 91
+../faces_aligned_2/valid/09/image_A1365.png 0 0 97 97
+../faces_aligned_2/valid/09/image_A1363.png 0 0 55 55
+../faces_aligned_2/valid/09/image_A1364.png 0 0 101 101
+../faces_aligned_2/valid/09/image_A1366.png 0 0 132 132
+../faces_aligned_2/valid/09/image_A1367.png 0 0 97 97
+../faces_aligned_2/valid/51/images (20).png 0 0 111 111
+../faces_aligned_2/valid/51/images (2).png 0 0 86 86
+../faces_aligned_2/valid/51/images (41).png 0 0 67 67
+../faces_aligned_2/valid/51/images (58).png 0 0 99 99
+../faces_aligned_2/valid/51/images (47).png 0 0 117 117
+../faces_aligned_2/valid/02/images (20).png 0 0 117 117
+../faces_aligned_2/valid/02/images (21).png 0 0 98 98
+../faces_aligned_2/valid/02/images (23).png 0 0 61 61
+../faces_aligned_2/valid/02/images (22).png 0 0 102 102
+../faces_aligned_2/valid/02/images (19).png 0 0 73 73
+../faces_aligned_2/valid/79/image_A3069.png 0 0 112 112
+../faces_aligned_2/valid/79/Z (4).png 0 0 102 102
+../faces_aligned_2/valid/79/Z.png 0 0 93 94
+../faces_aligned_2/valid/79/image_A3060.png 0 0 76 76
+../faces_aligned_2/valid/79/9k=.png 0 0 125 125
+../faces_aligned_2/valid/59/image_A2531.png 0 0 81 81
+../faces_aligned_2/valid/59/image_A1011.png 17 0 263 263
+../faces_aligned_2/valid/59/image_A2536.png 0 0 88 88
+../faces_aligned_2/valid/59/4545images (4).png 0 0 83 83
+../faces_aligned_2/valid/59/7171images (8).png 0 0 72 72
+../faces_aligned_2/valid/22/image_A0319.png 6 0 114 114
+../faces_aligned_2/valid/22/images (38).png 0 0 95 95
+../faces_aligned_2/valid/22/image_A1653.png 0 0 93 96
+../faces_aligned_2/valid/22/image_A1650.png 0 0 94 94
+../faces_aligned_2/valid/22/images (10).png 1 0 85 85
+../faces_aligned_2/valid/43/images (58).png 0 0 100 100
+../faces_aligned_2/valid/43/images (41).png 0 0 95 100
+../faces_aligned_2/valid/43/images (14).png 0 0 75 75
+../faces_aligned_2/valid/43/images (45).png 0 0 94 94
+../faces_aligned_2/valid/43/images (10).png 0 0 84 84
+../faces_aligned_2/valid/32/images (51).png 0 0 121 121
+../faces_aligned_2/valid/32/images (37).png 3 0 112 112
+../faces_aligned_2/valid/32/image_A0121.png 16 0 264 264
+../faces_aligned_2/valid/32/images (15).png 0 0 92 92
+../faces_aligned_2/valid/32/images (10).png 0 0 93 93
+../faces_aligned_2/valid/54/66Z (1).png 0 0 90 90
+../faces_aligned_2/valid/54/3939images (38).png 0 0 53 53
+../faces_aligned_2/valid/54/5555images (52).png 0 0 83 83
+../faces_aligned_2/valid/54/7373images (8).png 0 0 68 68
+../faces_aligned_2/valid/54/552Q==.png 0 0 98 100
+../faces_aligned_2/valid/12/image_A1419.png 0 0 111 111
+../faces_aligned_2/valid/12/images (38).png 0 0 92 92
+../faces_aligned_2/valid/12/image_A1433.png 0 0 133 133
+../faces_aligned_2/valid/12/image_A1434.png 0 0 105 105
+../faces_aligned_2/valid/12/image_A1431.png 0 0 110 110
+../faces_aligned_2/valid/30/images (29).png 0 0 97 97
+../faces_aligned_2/valid/30/image_A0379.png 19 0 311 311
+../faces_aligned_2/valid/30/images (26).png 0 0 98 101
+../faces_aligned_2/valid/30/image_A1037.png 0 0 103 110
+../faces_aligned_2/valid/30/images (10).png 0 0 108 108
+../faces_aligned_2/valid/42/images (37).png 0 0 134 134
+../faces_aligned_2/valid/42/images (102).png 0 0 124 124
+../faces_aligned_2/valid/42/images (34).png 2 0 118 118
+../faces_aligned_2/valid/42/images (15).png 0 0 109 109
+../faces_aligned_2/valid/42/images (35).png 0 0 104 104
+../faces_aligned_2/valid/49/images (30).png 0 0 83 83
+../faces_aligned_2/valid/49/images (69).png 0 0 110 111
+../faces_aligned_2/valid/49/images (38).png 0 0 121 121
+../faces_aligned_2/valid/49/images (22).png 0 0 91 91
+../faces_aligned_2/valid/49/images (58).png 0 0 124 124
+../faces_aligned_2/valid/01/7777images (97).png 0 0 73 73
+../faces_aligned_2/valid/01/7979images (99).png 0 0 106 106
+../faces_aligned_2/valid/01/8080images.png 0 0 110 110
+../faces_aligned_2/valid/01/7878images (98).png 0 0 120 120
+../faces_aligned_2/valid/01/7676images (96).png 0 0 92 92
+../faces_aligned_2/valid/70/images (10).png 0 0 73 73
+../faces_aligned_2/valid/70/images (31).png 3 0 99 99
+../faces_aligned_2/valid/70/9k= (2).png 0 0 96 96
+../faces_aligned_2/valid/70/images (29).png 0 0 83 83
+../faces_aligned_2/valid/70/image_A2815.png 0 0 92 92
+../faces_aligned_2/valid/08/image_A1340.png 0 0 111 111
+../faces_aligned_2/valid/08/image_A1342.png 0 0 108 108
+../faces_aligned_2/valid/08/image_A1339.png 0 0 103 103
+../faces_aligned_2/valid/08/image_A1341.png 0 0 77 77
+../faces_aligned_2/valid/08/image_A1338.png 0 0 109 109
+../faces_aligned_2/valid/63/1010Z (1).png
+../faces_aligned_2/valid/63/5656images (44).png 0 0 118 118
+../faces_aligned_2/valid/63/1919images (10).png 0 0 50 50
+../faces_aligned_2/valid/63/4949images (38).png 0 0 116 120
+../faces_aligned_2/valid/63/4141images (30).png 0 0 112 115
+../faces_aligned_2/valid/50/images (11).png 0 0 80 80
+../faces_aligned_2/valid/50/images (28).png 0 0 73 73
+../faces_aligned_2/valid/50/images (45).png 0 0 65 65
+../faces_aligned_2/valid/50/images (20).png 0 0 98 98
+../faces_aligned_2/valid/50/images (25).png 0 0 75 75
+../faces_aligned_2/valid/15/images (18).png 0 0 80 80
+../faces_aligned_2/valid/15/images (16).png 0 0 62 62
+../faces_aligned_2/valid/15/image_A1487.png 0 0 114 114
+../faces_aligned_2/valid/15/images (39).png 0 0 57 57
+../faces_aligned_2/valid/15/image_A1491.png 0 0 95 95
+../faces_aligned_2/valid/76/Z (3).png 0 0 75 75
+../faces_aligned_2/valid/76/images (12).png 0 0 86 86
+../faces_aligned_2/valid/76/image_A2993.png 0 0 106 106
+../faces_aligned_2/valid/76/image_A2982.png 0 0 110 110
+../faces_aligned_2/valid/76/images (40).png 0 0 150 150
+../faces_aligned_2/valid/58/2323images (18).png 0 0 91 91
+../faces_aligned_2/valid/58/2727images (21).png 0 0 87 87
+../faces_aligned_2/valid/58/image_A2506.png 0 0 81 81
+../faces_aligned_2/valid/58/6262images (53).png 0 0 103 104
+../faces_aligned_2/valid/58/1313Z.png 0 0 95 95
+../faces_aligned_2/valid/04/images (39).png 0 0 57 57
+../faces_aligned_2/valid/04/images (38).png 0 0 116 118
+../faces_aligned_2/valid/04/images (42).png 0 0 144 146
+../faces_aligned_2/valid/04/images (41).png 0 0 104 107
+../faces_aligned_2/valid/04/images (40).png 0 0 83 83
+../faces_aligned_2/valid/35/image_A0904.png 0 0 109 109
+../faces_aligned_2/valid/35/images (86).png 0 0 81 81
+../faces_aligned_2/valid/35/images (48).png 0 0 128 129
+../faces_aligned_2/valid/35/images (37).png 0 0 88 88
+../faces_aligned_2/valid/35/images (16).png 0 0 112 112
+../faces_aligned_2/valid/24/images (59).png 0 0 83 83
+../faces_aligned_2/valid/24/images (53).png 0 0 61 61
+../faces_aligned_2/valid/24/images (103).png 0 0 206 220
+../faces_aligned_2/valid/24/images (65).png 0 0 72 72
+../faces_aligned_2/valid/24/images (110).png 0 0 159 162
+../faces_aligned_2/valid/52/images (54).png 0 0 74 74
+../faces_aligned_2/valid/52/images (87).png 0 0 84 84
+../faces_aligned_2/valid/52/images (47).png 0 0 105 114
+../faces_aligned_2/valid/52/images (41).png 0 0 112 112
+../faces_aligned_2/valid/52/images (80).png 0 0 88 89
+../faces_aligned_2/valid/18/images (26).png 0 0 91 91
+../faces_aligned_2/valid/18/image_A1540.png 0 0 70 70
+../faces_aligned_2/valid/18/9k= (3).png 0 0 93 93
+../faces_aligned_2/valid/18/images (43).png 0 0 63 63
+../faces_aligned_2/valid/18/images (17).png 0 0 111 111
+../faces_aligned_2/valid/39/image_A0003.png 0 0 223 238
+../faces_aligned_2/valid/39/images (10).png 0 0 106 106
+../faces_aligned_2/valid/39/images (75).png 0 0 119 119
+../faces_aligned_2/valid/39/images (102).png 0 0 88 88
+../faces_aligned_2/valid/39/images (57).png 0 0 87 87
+../faces_aligned_2/valid/66/images (30).png 0 0 87 87
+../faces_aligned_2/valid/66/images (42).png 0 0 108 108
+../faces_aligned_2/valid/66/images (57).png 0 0 85 85
+../faces_aligned_2/valid/66/images (7).png 0 0 119 119
+../faces_aligned_2/valid/66/images (43).png 0 0 128 128
+../faces_aligned_2/valid/28/images (42).png 0 0 118 118
+../faces_aligned_2/valid/28/images (62).png 0 0 94 94
+../faces_aligned_2/valid/28/images (32).png 0 0 110 110
+../faces_aligned_2/valid/28/image_A0159.png 12 0 168 168
+../faces_aligned_2/valid/28/image_A0337.png 0 0 419 445
+../faces_aligned_2/valid/16/Z.png 4 0 130 130
+../faces_aligned_2/valid/16/9k= (6).png 0 0 113 113
+../faces_aligned_2/valid/16/images (17).png 0 0 59 59
+../faces_aligned_2/valid/16/images (11).png 0 0 94 94
+../faces_aligned_2/valid/16/image_A1508.png 0 0 119 119
+../faces_aligned_2/valid/05/images (64).png 0 0 264 264
+../faces_aligned_2/valid/05/images (63).png 0 0 70 70
+../faces_aligned_2/valid/05/images (60).png 0 0 90 90
+../faces_aligned_2/valid/05/images (62).png 0 0 96 96
+../faces_aligned_2/valid/05/images (61).png 0 0 57 57
+../faces_aligned_2/valid/47/images (66).png 0 0 111 111
+../faces_aligned_2/valid/47/images (77).png 0 0 71 71
+../faces_aligned_2/valid/47/images (83).png 0 0 121 121
+../faces_aligned_2/valid/47/images (53).png 0 0 133 133
+../faces_aligned_2/valid/47/images (19).png 0 0 118 118
+../faces_aligned_2/valid/03/image_A1243.png 0 0 97 97
+../faces_aligned_2/valid/03/image_A1246.png 0 0 89 89
+../faces_aligned_2/valid/03/image_A1242.png 0 0 90 90
+../faces_aligned_2/valid/03/image_A1241.png 0 0 119 119
+../faces_aligned_2/valid/03/image_A1245.png 10 0 106 106
+../faces_aligned_2/valid/62/3838images (28).png 0 0 80 80
+../faces_aligned_2/valid/62/image_A2610.png 0 0 88 88
+../faces_aligned_2/valid/62/3636images (26).png 0 0 109 109
+../faces_aligned_2/valid/62/222Q== (2).png 0 0 81 81
+../faces_aligned_2/valid/62/image_A2618.png 0 0 85 85
+../faces_aligned_2/valid/13/image_A1452.png 0 0 141 141
+../faces_aligned_2/valid/13/9k= (1).png 0 0 71 71
+../faces_aligned_2/valid/13/image_A1440.png 0 0 93 95
+../faces_aligned_2/valid/13/image_A1445.png 0 0 93 93
+../faces_aligned_2/valid/13/image_A0646.png 5 0 154 154
+../faces_aligned_2/valid/44/image_A0530.png 0 0 115 118
+../faces_aligned_2/valid/44/images (2).png 0 0 100 100
+../faces_aligned_2/valid/44/images (17).png 0 0 80 80
+../faces_aligned_2/valid/44/images (36).png 0 0 71 71
+../faces_aligned_2/valid/44/images (75).png 0 0 111 111
+../faces_aligned_2/valid/38/images (47).png 2 0 103 103
+../faces_aligned_2/valid/38/images (48).png 0 0 110 110
+../faces_aligned_2/valid/38/images (1).png 0 0 99 99
+../faces_aligned_2/valid/38/images (52).png 0 0 130 130
+../faces_aligned_2/valid/38/images (30).png 0 0 95 95
+../faces_aligned_2/valid/74/image_A2944.png 0 0 94 94
+../faces_aligned_2/valid/74/image_A0812.png 0 0 189 196
+../faces_aligned_2/valid/74/image_A2942.png 0 0 73 73
+../faces_aligned_2/valid/74/image_A2921.png 0 0 142 145
+../faces_aligned_2/valid/74/image_A2935.png 0 0 110 110
+../faces_aligned_2/valid/20/image_A1599.png 0 0 126 127
+../faces_aligned_2/valid/20/image_A1607.png 0 0 115 115
+../faces_aligned_2/valid/20/image_A1608.png 0 0 88 94
+../faces_aligned_2/valid/20/images (1).png 0 0 107 107
+../faces_aligned_2/valid/20/image_A1606.png 0 0 82 87

@@ -1,0 +1,17 @@
+arguments: src/align/align_dataset_mtcnn.py ../faces_data/train ../faces_aligned_2/train --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+--------------------
+git hash: 4faf590600f122c3cd2ab3ab3c85bd3bd2d00822
+--------------------
+diff --git a/src/classifier.py b/src/classifier.py
+index 749db4d..0c80099 100644
+--- a/src/classifier.py
++++ b/src/classifier.py
+@@ -116,7 +116,7 @@ def main(args):
+                 best_class_probabilities = predictions[np.arange(len(best_class_indices)), best_class_indices]
+                 
+                 for i in range(len(best_class_indices)):
+-                    print('%4d  %s: %.3f' % (i, class_names[best_class_indices[i]], best_class_probabilities[i]))
++                    print('%4d %s true:%s pred:%s - %.3f' % (i, paths[i], labels[i], class_names[best_class_indices[i]], best_class_probabilities[i]))
+                     
+                 accuracy = np.mean(np.equal(best_class_indices, labels))
+                 print('Accuracy: %.3f' % accuracy)
